@@ -1,6 +1,6 @@
 [
   {
-    "productImage";"https://m.media-amazon.com/images/I/51lX5oZbtQL._AC_UL640_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/51lX5oZbtQL._AC_UL640_FMwebp_QL65_.jpg",
     "productName": "Fire TV Stick with Alexa Voice Remote (includes TV and app controls) | HD streaming device",
     "price":"3,999",
     "deliveryType":"FREE Delivery"
@@ -8,7 +8,7 @@
   
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/41zDpnAonzL._AC_UL640_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/41zDpnAonzL._AC_UL640_FMwebp_QL65_.jpg",
     "productName":  "Introducing Amazon Smart Plug (works with Alexa) - 6A, Easy Set-Up",
     "price":"1,999",
     "deliveryType":"FREE Delivery"
@@ -16,7 +16,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/61GSdinGa+L._AC_UL640_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/61GSdinGa+L._AC_UL640_FMwebp_QL65_.jpg",
     "productName": "Amazon Brand - Solimo Tomato Ketchup, 950 g",
     "price":"95",
     "deliveryType":"FREE Delivery"
@@ -24,7 +24,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/41zDpnAonzL._AC_UL640_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/41zDpnAonzL._AC_UL640_FMwebp_QL65_.jpg",
     "productName": "Amazon Brand - Vedaka Raw Peanuts, Pink, 1kg",
     "price":"1,999",
     "deliveryType":"FREE Delivery"
@@ -32,7 +32,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/51pRVojOeBL._AC_UY436_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/51pRVojOeBL._AC_UY436_FMwebp_QL65_.jpg",
     "productName":"Lenovo (Renewed) Thinkpad T460 14-inch Laptop (I5-6300U/16GB/256GB/Dos/Integrated Graphics), Black",
     "price":"19,465",
     "deliveryType":"FREE Delivery"
@@ -40,7 +40,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UY436_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UY436_FMwebp_QL65_.jpg",
     "productName": "Echo Dot (3rd Gen) – New and improved smart speaker with Alexa (Black)",
     "price":"3,499",
     "deliveryType":"FREE Delivery"
@@ -48,7 +48,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/71wc6OS21cL._AC_UY436_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/71wc6OS21cL._AC_UY436_FMwebp_QL65_.jpg",
     "productName": "Oral B Cross Action Battery Powered Electric Toothbrush for adults, Pack of 1",
     "price":"539",
     "deliveryType":"FREE Delivery"
@@ -56,7 +56,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/61fBoZgmkCL._AC_UY436_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/61fBoZgmkCL._AC_UY436_FMwebp_QL65_.jpg",
     "productName": "Artistix 25 ltrs (30 cms)backpack(Talon_40cm_black)",
     "price":"999",
     "deliveryType":"FREE Delivery"
@@ -64,7 +64,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/61b7Ew7kjYL._AC_UY436_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/61b7Ew7kjYL._AC_UY436_FMwebp_QL65_.jpg",
     "productName":"Apple iPhone 14 Plus 128GB Starlight",
     "price":"80,999",
     "deliveryType":"FREE Delivery"
@@ -72,7 +72,7 @@
   },
   {
    
-    "productImage";"https://m.media-amazon.com/images/I/71QE00iB9IL._AC_UY436_FMwebp_QL65_.jpg",
+    "productImage":"https://m.media-amazon.com/images/I/71QE00iB9IL._AC_UY436_FMwebp_QL65_.jpg",
     "productName":"Apple iPhone 11 (64GB) - White",
     "price":"41,999",
     "deliveryType":"FREE Delivery"
