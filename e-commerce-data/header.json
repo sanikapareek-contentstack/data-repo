@@ -1,0 +1,14 @@
+{
+    "userIcon":"fa fa-user",
+    "userName":"Sanika Pareek",
+    "nav":[
+        {
+            "title":"Product",
+            "href":"#"
+        },
+        {
+            "title":"Cart",
+            "href":"#"
+        }
+    ]
+}
